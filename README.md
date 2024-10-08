@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityacodepublic
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning Web Development & trying out new things 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at email website0wordpress@gmail.com
 
